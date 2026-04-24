@@ -14,8 +14,7 @@ A creative daily content series designed for the social media page **“Arunoday
 - Informative and engaging content  
 - Clean and readable layouts  
 
-📄 [View PDF](./arunoday.pdf)  
-🔗 [View on Google Drive]([ARUNODAY_GOOGLE_DRIVE_LINK])
+🔗 [View Project]https://drive.google.com/file/d/1XYkPOuruU1tPSe8iIwYswg1mMhTUAKNg/view?usp=sharing
 
 ---
 
@@ -27,8 +26,7 @@ A 9-day thematic campaign celebrating the **9 forms of Goddess Durga** by honori
 - Women empowerment theme  
 - Consistent visual identity  
 
-📄 [View PDF](./navratri.pdf)  
-🔗 [View on Google Drive]([NAVRATRI_GOOGLE_DRIVE_LINK])
+🔗 [View Project]https://drive.google.com/file/d/1FblUiLaZ8m5HpxDDlfpcbO35U2EJKPCQ/view?usp=sharing
 
 ---
 
@@ -40,8 +38,7 @@ A structured social media design series for introducing club members across diff
 - Strong visual consistency  
 - Clear hierarchy  
 
-📄 [View PDF](./club-members.pdf)  
-🔗 [View on Google Drive]([CLUB_GOOGLE_DRIVE_LINK])
+🔗 [View Project]https://drive.google.com/file/d/1kXF3Dx6cWIZetBdrLhN4dQtNs92MXctj/view?usp=sharing
 
 ---
 
@@ -52,8 +49,7 @@ A standalone creative post designed to celebrate and appreciate teachers.
 - Emotion-driven design  
 - Clean visual composition  
 
-🖼️ [View Image](./teachers-day.png)  
-🔗 [View on Google Drive]([TEACHERS_DAY_GOOGLE_DRIVE_LINK])
+🔗 [View Project]
 
 ---
 
@@ -62,12 +58,10 @@ A standalone creative post designed to celebrate and appreciate teachers.
 - Consistency and branding  
 - Clarity and readability  
 - Audience-focused design  
-
 ---
 
 ## 🛠️ Tools Used
 - Canva  
-
 ---
 
 ## 💡 Key Skills Demonstrated
