@@ -27,7 +27,6 @@ A 9-day thematic campaign celebrating the **9 forms of Goddess Durga** by honori
 - Consistent visual identity  
 
 🔗 [View Project]https://drive.google.com/file/d/1FblUiLaZ8m5HpxDDlfpcbO35U2EJKPCQ/view?usp=sharing
-
 ---
 
 ### 👥 3. Club Member Declaration Series
@@ -39,18 +38,6 @@ A structured social media design series for introducing club members across diff
 - Clear hierarchy  
 
 🔗 [View Project]https://drive.google.com/file/d/1kXF3Dx6cWIZetBdrLhN4dQtNs92MXctj/view?usp=sharing
-
----
-
-### 🍎 4. Teacher’s Day Social Media Post
-A standalone creative post designed to celebrate and appreciate teachers.
-
-**Highlights:**
-- Emotion-driven design  
-- Clean visual composition  
-
-🔗 [View Project]
-
 ---
 
 ## 🎯 Design Approach
